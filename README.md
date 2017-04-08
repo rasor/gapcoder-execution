@@ -11,6 +11,7 @@ Enter credentials. In the app :
 Create a Cordova app. In GitHub:
 * Create a Cordova project having confix.xml in the root #required for being able to run in GapCoder
 * Content could be like this project: https://github.com/gapcoder/cordova.git
+* or other hybrid cordova frameworks as compared here: https://www.airpair.com/ionic-framework/posts/hybrid-apps-ionic-famous-f7-onsen
 
 Import the app to GapCoder. In the app:
 * Press "+"
