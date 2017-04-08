@@ -14,8 +14,8 @@ Create a Cordova app. In GitHub:
 Import the app to GapCoder. In the app:
 * Press "+"
 * Clone from GitHub
-** Name: Whatever you like
-** Path: https://github.com/gapcoder/cordova.git #remember to write https:// before github.com
+  * Name: Whatever you like
+  * Path: https://github.com/gapcoder/cordova.git #remember to write https:// before github.com
 
 Run the project. In the app:
 * Open the project
