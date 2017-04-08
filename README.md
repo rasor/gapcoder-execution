@@ -10,6 +10,7 @@ Enter credentials. In the app :
 
 Create a Cordova app. In GitHub:
 * Create a Cordova project having confix.xml in the root #required for being able to run in GapCoder
+* Content could be like this project: https://github.com/gapcoder/cordova.git
 
 Import the app to GapCoder. In the app:
 * Press "+"
