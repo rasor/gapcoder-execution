@@ -15,7 +15,7 @@ Import the app to GapCoder. In the app:
 * Press "+"
 * Clone from GitHub
 ** Name: Whatever you like
-** Path: https://github.com/rasor/some-cordova-project.git #remember to write https:// before github.com
+** Path: https://github.com/gapcoder/cordova.git #remember to write https:// before github.com
 
 Run the project. In the app:
 * Open the project
