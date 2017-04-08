@@ -1,4 +1,4 @@
-# gap-coder-execution
+# gapcoder-execution
 A small HowTo
 
 In IOS you can install app http://www.gapcoder.com/ and use that for test-running a Cordova app.
